@@ -1,4 +1,4 @@
-# myproject
+# Topic Modeling
 first project - topic modeling on china: statments
 
 one can choose between 4 versions of topic modeling - TF-IDF; LDA; Bert; LDA+Bert.
